@@ -96,7 +96,7 @@ nav ul li {
 .service-img {
   width: 50%;
   height: 100%;
-  background-image: url(../IMAGES/Image.png);
+  background-image: url(./IMAGES/Image.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
