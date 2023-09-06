@@ -29,6 +29,16 @@ nav {
   font-size: 12px;
   vertical-align: top;
 }
+.contact-icon {
+  background-color: #61c3a1;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .assist-num {
   color: #1e1b1b;
   font-weight: 600;
@@ -77,6 +87,11 @@ nav ul li {
   padding: 15px;
   border: none;
   border-radius: 5px;
+}
+.btn-orange:hover {
+  background-color: #ff6433;
+  opacity: 0.5;
+  cursor: pointer;
 }
 .opening-time {
   display: flex;
@@ -139,4 +154,7 @@ nav ul li {
   font-size: 10px;
   color: #1e1b1b;
   font-weight: 500;
+}
+.rating-stars {
+  color: #ffb648;
 }
